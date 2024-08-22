@@ -4,7 +4,7 @@
 The Maryland Department of Public Safety needs to understand crime trends over the past decades to inform their strategic planning. They aim to reduce crime rates by 10% in the next five years. To achieve this, they need a detailed analysis of the historical data, identification of hotspots, understanding of seasonal patterns, and insights into the effectiveness of past interventions.
 
 <h1 style="font-size:24px;"> <b> 2. Dataset </b> </h1>
-The data (MD_Crime_Data.csv) on Maryland crime rates is shared via an .csv file. The dataset contains 1105 rows and 39 columns. The original dataset was provided by Data In Motion through their weekly Data Analyst Challenge. 
+The data (MD_Crime_Data.csv) on Maryland crime rates is shared via an .csv file. The dataset contains 1105 rows and 38 columns. The original dataset was provided by Data In Motion through their weekly Data Analyst Challenge. 
 
 <h1 style="font-size:24px;"> <b> 3. Software used </b> </h1>
 
